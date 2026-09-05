@@ -71,7 +71,7 @@ Modern software engineering involves complex interactions across distributed mic
 4. Open the application:
    Navigate to `http://localhost:3000/` in your web browser.
 
-### Building for Production
+### Building for Productions
 
 To create a production build:
 ```bash
