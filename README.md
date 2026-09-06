@@ -15,7 +15,7 @@ Modern software engineering involves complex interactions across distributed mic
 ### 2. AI Incident and Root-Cause Reasoning Engine
 - Performs an eleven-stage automated reasoning traversal (parsing APM logs, tracing connection pools, mapping diffs, verifying SLAs).
 - Provides confidence scoring and APM evidence citations.
-- Visualizes the causal call path from traffic spikes to downstream timeout errors.
+- Visualizes the causal call path from traffic spikes to downstream timeout error.
 
 ### 3. Microservice Impact and Dependency Propagation Analysis
 - Analyzes upstream and downstream dependency ripple effects when modifying application logic or database queries.
