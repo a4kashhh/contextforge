@@ -1,6 +1,6 @@
 # ContextForge AI
 
-ContextForge AI is an engineering intelligence platform designed for full-stack microservices architectures and distributed software systems. Unlike conventional coding tools that evaluate isolated code files, ContextForge AI aggregates software requirements, microservices architecture, application controllers, database schemas, git history, issue trackers, automated test suites, and OpenTelemetry distributed traces into a unified Engineering Context Knowledge Graph.
+ContextForge AI is an engineering intelligence platform designed for full-stack microservices architectures and distributed software systems. Unlike conventional coding tools that evaluate isolated code file, ContextForge AI aggregates software requirements, microservices architecture, application controllers, database schemas, git history, issue trackers, automated test suites, and OpenTelemetry distributed traces into a unified Engineering Context Knowledge Graph.
 
 ## Overview
 
